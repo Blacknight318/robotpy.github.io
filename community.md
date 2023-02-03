@@ -19,6 +19,7 @@ teamlist:
       code: https://github.com/qubit-robotics/2023-public
     '7459':
       code: https://github.com/TaubatexasRobotics/2023-robot-code
+    '8024': {}
   2022:
     '94':
       code: https://github.com/TechnoJays/robot2022
